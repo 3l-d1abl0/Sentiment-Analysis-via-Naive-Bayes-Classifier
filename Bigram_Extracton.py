@@ -1,7 +1,7 @@
-import sys
-import random
-import	nltk
 import re
+import sys
+import	nltk
+import random
 import itertools
 from nltk.corpus import stopwords
 from nltk.collocations import BigramCollocationFinder
