@@ -1,6 +1,6 @@
 import re
 import sys
-import	nltk
+import nltk
 import random
 import itertools
 from nltk.corpus import stopwords
