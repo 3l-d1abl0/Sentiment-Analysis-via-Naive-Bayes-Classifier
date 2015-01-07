@@ -55,7 +55,7 @@ for (word, sentiment) in taggedReview:
 #print reviews
 
 '''
-print '\n\n#################################\nPrinting List of words\n###################################\n\n'
+print '\n\n###############################\nPrinting List of words\n#################################\n\n'
 for line in reviews:
 	print line
 '''
